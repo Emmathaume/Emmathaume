@@ -8,9 +8,9 @@
 ## 👩‍💻 À propos de moi
 
 🎓 Développeuse informatique (Bac +2)  
-💼 2 ans d’expérience professionnelle en entreprise  
+💼 3 ans d’expérience professionnelle en entreprise  
 🌍 Basée en Suisse (Vaud)  
-🚀 À la recherche d’un poste **développeuse junior / web / applicative**
+🚀 À la recherche d’un poste **développeuse web / applicative**
 
 - 🔭 Je travaille actuellement sur **Ethiclick** (projet personnel)
 - 🌱 J’approfondis **JavaScript, APIs, architecture backend**
@@ -73,6 +73,6 @@
 
 ## ✨ Fun fact
 
-Ancienne cheffe de rang & responsable de bar 🍷  
+Ancienne cheffe de Salle & responsable de bar 🍷  
 👉 excellente gestion du stress, des priorités… et des bugs 😄
 
