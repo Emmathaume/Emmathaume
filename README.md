@@ -17,5 +17,5 @@ WordPress, PHP, JavaScript, APIs, responsive
 📫 Me contacter :
 📧 emma.winkler@hotmail.fr
 🔗 Mon portfolio : https://horizonteak.fr
-🧠 Mon CV : (lien PDF ou site)
+<!-- Ceci est un commentaire🧠 Mon CV : (lien PDF ou site) -->
 
