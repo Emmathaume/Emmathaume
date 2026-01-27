@@ -12,10 +12,12 @@
 🌍 Basée en Suisse (Vaud)  
 🚀 À la recherche d’un poste **développeuse web / applicative**
 
-- 🔭 Je travaille actuellement sur **Ethiclick** (projet personnel)
+- 🔭 J’ai travaillé sur **Ethiclick** (projet personnel)
+- 🚧 Je travaille actuellement sur **Les Histoires de la Vie**, une application dédiée à la santé mentale
 - 🌱 J’approfondis **JavaScript, APIs, architecture backend**
 - 💬 Ask me about **WordPress, PHP, JavaScript**
 - 📫 Contact : **emma.winkler@hotmail.fr**
+
 
 ---
 
@@ -61,15 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmathaume&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 Trophées GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmathaume&theme=onedark&row=1&column=6" />
-</p>
-
----
 
 ## ✨ Fun fact
 
