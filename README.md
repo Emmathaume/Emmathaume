@@ -1,21 +1,78 @@
-# Bonjour 👋 Je suis Emmanuelle
+<!-- Animation typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Emmanuelle+👋;Développeuse+informatique+junior;Passionnée+par+le+web+et+les+apps;À+la+recherche+d’un+poste+en+Suisse+🇨🇭" />
+</p>
 
-Développeuse web/junior en Suisse 🇨🇭  
-Actuellement disponible pour des missions ou un poste junior.
+---
 
-🔭 Je travaille sur :
-- Mon app perso Ethiclick (backend)
-- Un de mes projets WordPress Horizonteak
+## 👩‍💻 À propos de moi
 
-🌱 En apprentissage :
-- React
-- Node.js / APIs
+🎓 Développeuse informatique (Bac +2)  
+💼 2 ans d’expérience professionnelle en entreprise  
+🌍 Basée en Suisse (Vaud)  
+🚀 À la recherche d’un poste **développeuse junior / web / applicative**
 
-💬 Tu peux me demander à propos de :
-WordPress, PHP, JavaScript, APIs, responsive
+- 🔭 Je travaille actuellement sur **Ethiclick** (projet personnel)
+- 🌱 J’approfondis **JavaScript, APIs, architecture backend**
+- 💬 Ask me about **WordPress, PHP, JavaScript**
+- 📫 Contact : **emma.winkler@hotmail.fr**
 
-📫 Me contacter :
-📧 emma.winkler@hotmail.fr
-🔗 Mon portfolio : https://horizonteak.fr
-<!-- Ceci est un commentaire🧠 Mon CV : (lien PDF ou site) -->
+---
+
+## 🛠️ Technologies & outils
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Projets principaux
+
+### 🌱 Ethiclick – Application web (en cours)
+🔗 https://github.com/Ethiclick/ethiclick-back  
+
+- Backend applicatif
+- Structuration du projet
+- Gestion de la logique métier
+- Projet personnel en évolution continue
+
+### 🌐 Horizonteak – Site WordPress
+🔗 https://horizonteak.fr  
+
+- Développement du site
+- Personnalisation du thème
+- Mise en production
+- Optimisation responsive
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmathaume&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmathaume&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emmathaume&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Fun fact
+
+Ancienne cheffe de rang & responsable de bar 🍷  
+👉 excellente gestion du stress, des priorités… et des bugs 😄
 
