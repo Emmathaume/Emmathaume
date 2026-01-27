@@ -5,7 +5,7 @@ Actuellement disponible pour des missions ou un poste junior.
 
 🔭 Je travaille sur :
 - Mon app perso Ethiclick (backend)
-- Mon site WordPress Horizonteak
+- Un de mes projets WordPress Horizonteak
 
 🌱 En apprentissage :
 - React
