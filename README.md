@@ -1,6 +1,6 @@
 <!-- Animation typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Emmanuelle+👋;Développeuse+informatique+junior;Passionnée+par+le+web+et+les+apps;À+la+recherche+d’un+poste+en+Suisse+🇨🇭" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Emmanuelle+👋;Développeuse+informatique;Passionnée+par+le+web+et+les+apps;À+la+recherche+d’un+poste+en+Suisse+🇨🇭" />
 </p>
 
 ---
